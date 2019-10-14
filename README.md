@@ -59,3 +59,6 @@ Your HTML & CSS files have been provided for you. Your dynamically updated HTML 
   </div>
 </body>
 ```
+
+End result should resemble:
+![result](./dog-blogs-frontend/Screen&#32;Shot&#32;2019-10-14&#32;at&#32;11.22.44&#32;AM.png)

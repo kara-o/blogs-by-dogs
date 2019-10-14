@@ -35,11 +35,11 @@ h1 {
 }
 
 #edit-form {
-  width: 70%;
   display: flex;
   flex-direction: column;
   margin-top: 50px;
   align-items: center;
+  margin-right: 50px;
   height: 400px;
 }
 

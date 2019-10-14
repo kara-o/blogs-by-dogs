@@ -26,7 +26,6 @@ class BlogsController < ApplicationController
 
   # PATCH/PUT /blogs/1
   def update
-    byebug
     if @blog.update(blog_params)
       render json: @blog
     else
