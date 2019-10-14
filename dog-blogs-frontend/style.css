@@ -21,7 +21,7 @@ h1 {
   margin: 3% auto;
 }
 
-.blog-container {
+#blog-container {
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -29,7 +29,7 @@ h1 {
   height: 100%;
 }
 
-.blog-content {
+#blog-content {
   padding: 5px;
   font-size: 20px;
 }
@@ -79,7 +79,7 @@ h1 {
   margin-left: 60%;
 }
 
-.blog-author {
+#blog-author {
   display: flex;
   align-self: flex-end;
   margin: 0;
